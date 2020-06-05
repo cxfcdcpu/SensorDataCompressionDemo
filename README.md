@@ -25,3 +25,6 @@ First, the program in folder controlGroup and expGroup are the sensor programs t
 Second, the UI contains the java visualization programs that decode and visualize the sening data. Some screen shoot look like below:
 ![cp](https://github.com/cxfcdcpu/SensorDataCompressionDemo/blob/master/cp.png)
 ![compare](https://github.com/cxfcdcpu/SensorDataCompressionDemo/blob/master/compare.PNG)
+
+Note:
+To run the UI, you have to have tinyos installed and serial forworder running. 
